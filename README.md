@@ -7,7 +7,7 @@ Instruction to run the program from the terminal :
 
 
 
-Problem decscription : 
+Problem description : 
 ------------------------------------------------------------------------------------------------
 The local passenger railway serves a number of cities. For monetary reasons, all train lines
 follow only one direction. That is a route from city X to city Y, it does not mean that there is a
